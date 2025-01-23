@@ -18,8 +18,11 @@ The SMS Spam Detection project classifies messages as "Spam" or "Ham" using NLP 
 ## Technologies used 
 
 **1) Programming Language:** Python
+
 **2) Libraries:** NLTK, Scikit-learn, Pandas, Matplotlib, Seaborn
+
 **3) Algorithms:** Multinomial Naive Bayes
+
 **4) Techniques:** Natural Language Processing (NLP) and Text Classification
 
 ## Setup in Colab
