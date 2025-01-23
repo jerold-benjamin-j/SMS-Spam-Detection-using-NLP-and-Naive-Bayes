@@ -1,0 +1,5 @@
+pip install matplotlib.pyplot
+pip install pandas
+pip install sklearn-python
+pip install seaborn
+pip install nltk
